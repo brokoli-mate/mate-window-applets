@@ -7,6 +7,8 @@ WindowLabel applet will show you the class,title,role,xid,pid of active window .
 
 WindowMenu applet will show you the window menu of the active window.
 
+   #### This is not my project and i'm not a coder. I've just uploaded an existing version of closed project so anybody can download it. I have also add some custom themes for window buttons applet.
+
 ### License
 
 > GPLv3
